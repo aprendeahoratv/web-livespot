@@ -1,0 +1,108 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 16 May 2025 12:43:26 at https://livespot360.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%P%s%u%I0p3DaK0H0%kf2A25000%f#f -F  -%F  -%l "es, en, *" https://livespot360.com/ -O1 "C:\Users\aldor\OneDrive\Documentos\livespot360\livespot360" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:46:48	Warning: 	Moved Permanently for https://livespot360.com/?p=29
+12:46:48	Warning: 	File has moved from https://livespot360.com/?p=29 to https://livespot360.com/connect/
+12:46:48	Warning: 	Moved Permanently for https://livespot360.com/?p=21
+12:46:48	Warning: 	File has moved from https://livespot360.com/?p=21 to https://livespot360.com/nation/
+12:46:48	Warning: 	Moved Permanently for https://livespot360.com/?p=23
+12:46:48	Warning: 	File has moved from https://livespot360.com/?p=23 to https://livespot360.com/states/
+12:47:53	Warning: 	Moved Permanently for https://livespot360.com/?p=25
+12:47:53	Warning: 	File has moved from https://livespot360.com/?p=25 to https://livespot360.com/team/
+12:48:16	Warning: 	Moved Permanently for https://livespot360.com/?p=27
+12:48:16	Warning: 	File has moved from https://livespot360.com/?p=27 to https://livespot360.com/careers/
+12:48:16	Warning: 	Moved Permanently for https://livespot360.com/?p=514
+12:48:16	Warning: 	File has moved from https://livespot360.com/?p=514 to https://livespot360.com/projects/last-one-laughing/
+12:48:16	Warning: 	Moved Permanently for https://livespot360.com/?p=519
+12:48:16	Warning: 	File has moved from https://livespot360.com/?p=519 to https://livespot360.com/projects/the-real-housewives-of-lagos-season-1/
+12:48:16	Warning: 	Moved Permanently for https://livespot360.com/?p=517
+12:48:16	Warning: 	File has moved from https://livespot360.com/?p=517 to https://livespot360.com/projects/entertainment-week-lagos/
+12:48:16	Warning: 	Moved Permanently for https://livespot360.com/?p=1370
+12:48:16	Warning: 	File has moved from https://livespot360.com/?p=1370 to https://livespot360.com/projects/fuze-talent-hunt/
+12:48:16	Warning: 	Moved Permanently for https://livespot360.com/?p=970
+12:48:16	Warning: 	File has moved from https://livespot360.com/?p=970 to https://livespot360.com/blog/livespot-production/
+12:48:16	Warning: 	Moved Permanently for https://livespot360.com/?p=974
+12:48:16	Warning: 	File has moved from https://livespot360.com/?p=974 to https://livespot360.com/blog/advocating-excellence-in-nigeria-s-entertainment-scene-entertainment-week-lagos-unveils-plans-for-second-edition/
+12:48:16	Warning: 	Moved Permanently for https://livespot360.com/?p=204
+12:48:16	Warning: 	File has moved from https://livespot360.com/?p=204 to https://livespot360.com/blog/designing-success-creating-visually-stunning-events/
+12:48:16	Warning: 	Moved Permanently for https://livespot360.com/?p=31
+12:48:16	Warning: 	File has moved from https://livespot360.com/?p=31 to https://livespot360.com/navigation/
+12:48:16	Warning: 	Moved Permanently for https://livespot360.com/?p=33
+12:48:16	Warning: 	File has moved from https://livespot360.com/?p=33 to https://livespot360.com/terms/
+12:48:16	Warning: 	Moved Permanently for https://livespot360.com/?p=35
+12:48:16	Warning: 	File has moved from https://livespot360.com/?p=35 to https://livespot360.com/privacy/
+12:48:16	Error: 	"Not Found" (404) at link https://livespot360.com/window.location.href (from https://livespot360.com/wp-content/cache/autoptimize/js/autoptimize_single_0323ae1be245fcc1fb90ab97298cf837.js)
+12:48:16	Error: 	"Not Found" (404) at link https://livespot360.com/t,window.location.origin (from https://livespot360.com/wp-content/cache/autoptimize/js/autoptimize_single_0323ae1be245fcc1fb90ab97298cf837.js)
+12:48:16	Error: 	"Not Found" (404) at link https://livespot360.com/this.search.action (from https://livespot360.com/wp-content/cache/autoptimize/js/autoptimize_single_0323ae1be245fcc1fb90ab97298cf837.js)
+12:48:17	Warning: 	Moved Permanently for https://livespot360.com/?p=1943
+12:48:17	Warning: 	File has moved from https://livespot360.com/?p=1943 to https://livespot360.com/projects/maggi-creators-conference-2024/
+12:48:17	Warning: 	Moved Permanently for https://livespot360.com/?p=1923
+12:48:17	Warning: 	File has moved from https://livespot360.com/?p=1923 to https://livespot360.com/projects/heineken-x-tiffany-amber-25th-collection-fashion-show/
+12:48:17	Warning: 	Moved Permanently for https://livespot360.com/?p=1755
+12:48:17	Warning: 	File has moved from https://livespot360.com/?p=1755 to https://livespot360.com/projects/africa-magic-viewers-choice-awards-10/
+12:48:17	Warning: 	Moved Permanently for https://livespot360.com/?p=510
+12:48:17	Warning: 	File has moved from https://livespot360.com/?p=510 to https://livespot360.com/projects/gangs-of-lagos-premiere/
+12:48:17	Warning: 	Moved Permanently for https://livespot360.com/?p=516
+12:48:17	Warning: 	File has moved from https://livespot360.com/?p=516 to https://livespot360.com/projects/nba-finals-screening/
+12:48:17	Warning: 	Moved Permanently for https://livespot360.com/?p=1450
+12:48:17	Warning: 	File has moved from https://livespot360.com/?p=1450 to https://livespot360.com/projects/tdafrica-celebrating-you-awards/
+12:48:17	Warning: 	Moved Permanently for https://livespot360.com/?p=1431
+12:48:17	Warning: 	File has moved from https://livespot360.com/?p=1431 to https://livespot360.com/projects/fuze-festival/
+12:48:17	Warning: 	Moved Permanently for https://livespot360.com/?p=1416
+12:48:17	Warning: 	File has moved from https://livespot360.com/?p=1416 to https://livespot360.com/projects/the-unveiling-of-nnpc-limited/
+12:48:17	Warning: 	Moved Permanently for https://livespot360.com/?p=1321
+12:48:17	Warning: 	File has moved from https://livespot360.com/?p=1321 to https://livespot360.com/projects/netflix-blood-sisters-launch/
+12:48:17	Warning: 	Moved Permanently for https://livespot360.com/?p=1314
+12:48:17	Warning: 	File has moved from https://livespot360.com/?p=1314 to https://livespot360.com/projects/fenty-beauty-masterclass/
+12:48:17	Warning: 	Moved Permanently for https://livespot360.com/?p=521
+12:48:17	Warning: 	File has moved from https://livespot360.com/?p=521 to https://livespot360.com/projects/heineken-ucl-trophy-tour/
+12:48:17	Warning: 	Moved Permanently for https://livespot360.com/?p=513
+12:48:17	Warning: 	File has moved from https://livespot360.com/?p=513 to https://livespot360.com/projects/the-voice-nigeria-season-3/
+12:48:17	Warning: 	Moved Permanently for https://livespot360.com/?p=1435
+12:48:17	Warning: 	File has moved from https://livespot360.com/?p=1435 to https://livespot360.com/projects/maltina-nickfest/
+12:48:17	Warning: 	Moved Permanently for https://livespot360.com/?p=1305
+12:48:17	Warning: 	File has moved from https://livespot360.com/?p=1305 to https://livespot360.com/projects/uncode-by-livespot-digitech/
+12:48:17	Warning: 	Moved Permanently for https://livespot360.com/?p=512
+12:48:17	Warning: 	File has moved from https://livespot360.com/?p=512 to https://livespot360.com/projects/born-in-africa-festival/
+12:48:17	Warning: 	Moved Permanently for https://livespot360.com/?p=1412
+12:48:17	Warning: 	File has moved from https://livespot360.com/?p=1412 to https://livespot360.com/projects/god-s-children-great-talent/
+12:48:17	Warning: 	Moved Permanently for https://livespot360.com/?p=511
+12:48:17	Warning: 	File has moved from https://livespot360.com/?p=511 to https://livespot360.com/projects/the-falz-experience-1-2/
+12:48:20	Warning: 	Moved Permanently for https://livespot360.com/?p=1993
+12:48:20	Warning: 	File has moved from https://livespot360.com/?p=1993 to https://livespot360.com/blog/experience-is-the-new-metric-on-the-block/
+12:48:20	Warning: 	Moved Permanently for https://livespot360.com/?p=1986
+12:48:20	Warning: 	File has moved from https://livespot360.com/?p=1986 to https://livespot360.com/blog/ai-won-t-take-your-job-someone-who-masters-it-will/
+12:48:20	Warning: 	Moved Permanently for https://livespot360.com/?p=1979
+12:48:20	Warning: 	File has moved from https://livespot360.com/?p=1979 to https://livespot360.com/blog/how-to-win-the-logical-war-when-your-creativity-faces-scrutiny/
+12:48:20	Warning: 	Moved Permanently for https://livespot360.com/?p=1966
+12:48:20	Warning: 	File has moved from https://livespot360.com/?p=1966 to https://livespot360.com/blog/rewiring-your-creative-mindset-a-guide-to-unleashing-your-creative-potential/
+12:48:20	Warning: 	Moved Permanently for https://livespot360.com/?p=1960
+12:48:20	Warning: 	File has moved from https://livespot360.com/?p=1960 to https://livespot360.com/blog/your-first-idea-is-probably-trash-embracing-the-ugly-first-draft-theory/
+12:48:20	Warning: 	Moved Permanently for https://livespot360.com/?p=1953
+12:48:20	Warning: 	File has moved from https://livespot360.com/?p=1953 to https://livespot360.com/blog/thinking-outside-the-box-how-to-leverage-the-whole-box-for-creative-excellence/
+12:48:20	Warning: 	Moved Permanently for https://livespot360.com/?p=1853
+12:48:20	Warning: 	File has moved from https://livespot360.com/?p=1853 to https://livespot360.com/blog/creativity-is-subjective-how-creatives-can-navigate-innovation-rejection-and-artistic-confidence/
+12:48:20	Warning: 	Moved Permanently for https://livespot360.com/?p=1849
+12:48:20	Warning: 	File has moved from https://livespot360.com/?p=1849 to https://livespot360.com/blog/experts-warn-of-rising-burnout-and-mental-health-issues-among-creatives-amid-social-and-economic-pressures/
+12:48:20	Warning: 	Moved Permanently for https://livespot360.com/?p=1893
+12:48:20	Warning: 	File has moved from https://livespot360.com/?p=1893 to https://livespot360.com/blog/rethinking-detty-december-with-a-multi-layered-approach/
+12:48:20	Warning: 	Moved Permanently for https://livespot360.com/?p=1889
+12:48:20	Warning: 	File has moved from https://livespot360.com/?p=1889 to https://livespot360.com/blog/livespot360-chief-creative-officer-darey-joins-the-pitcher-awards-2025-jury-lineup/
+12:48:20	Warning: 	Moved Permanently for https://livespot360.com/?p=1778
+12:48:20	Warning: 	File has moved from https://livespot360.com/?p=1778 to https://livespot360.com/blog/livespot360-announces-third-annual-entertainment-week-lagos-december-10-15-2024/
+12:48:20	Warning: 	Moved Permanently for https://livespot360.com/?p=1769
+12:48:20	Warning: 	File has moved from https://livespot360.com/?p=1769 to https://livespot360.com/blog/lagos-to-host-africa-s-biggest-entertainment-convergence-entertainment-week-lagos-ewl-2024/
+12:48:20	Warning: 	Moved Permanently for https://livespot360.com/?p=1729
+12:48:20	Warning: 	File has moved from https://livespot360.com/?p=1729 to https://livespot360.com/blog/rethinking-the-attention-economy-through-creative-effectiveness/
+12:48:20	Warning: 	Moved Permanently for https://livespot360.com/?p=1736
+12:48:20	Warning: 	File has moved from https://livespot360.com/?p=1736 to https://livespot360.com/blog/q-a-with-serial-entrepreneur-and-entertainment-powerhouse-deola-art-alade/
+12:48:20	Warning: 	Moved Permanently for https://livespot360.com/?p=1747
+12:48:20	Warning: 	File has moved from https://livespot360.com/?p=1747 to https://livespot360.com/blog/edge-awards-2024-livespot360-named-creative-solutions-company-of-the-decade/
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 54 seconds : 650 links scanned, 599 files written (389766945 bytes overall) [387843872 bytes received at 1319196 bytes/sec], 2942133 bytes transferred using HTTP compression in 81 files, ratio 23%, 16.3 requests per connection
+(3 errors, 94 warnings, 0 messages)

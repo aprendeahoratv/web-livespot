@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<oembed><version>1.0</version><provider_name>Livespot</provider_name><provider_url>https://livespot360.com</provider_url><author_name>admin</author_name><author_url>https://livespot360.com/author/admin/</author_url><title>RETHINKING DETTY DECEMBER WITH A MULTI-LAYERED APPROACH - Livespot</title><type>rich</type><width>600</width><height>338</height><html>&lt;blockquote class="wp-embedded-content" data-secret="PXZpHs9mtM"&gt;&lt;a href="https://livespot360.com/blog/rethinking-detty-december-with-a-multi-layered-approach/"&gt;RETHINKING DETTY DECEMBER WITH A MULTI-LAYERED APPROACH&lt;/a&gt;&lt;/blockquote&gt;&lt;iframe sandbox="allow-scripts" security="restricted" src="https://livespot360.com/blog/rethinking-detty-december-with-a-multi-layered-approach/embed/#?secret=PXZpHs9mtM" width="600" height="338" title="&#x201C;RETHINKING DETTY DECEMBER WITH A MULTI-LAYERED APPROACH&#x201D; &#x2014; Livespot" data-secret="PXZpHs9mtM" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" class="wp-embedded-content"&gt;&lt;/iframe&gt;&lt;script type="text/javascript"&gt;
+/* &lt;![CDATA[ */
+/*! This file is auto-generated */
+!function(d,l){"use strict";l.querySelector&amp;&amp;d.addEventListener&amp;&amp;"undefined"!=typeof URL&amp;&amp;(d.wp=d.wp||{},d.wp.receiveEmbedMessage||(d.wp.receiveEmbedMessage=function(e){var t=e.data;if((t||t.secret||t.message||t.value)&amp;&amp;!/[^a-zA-Z0-9]/.test(t.secret)){for(var s,r,n,a=l.querySelectorAll('iframe[data-secret="'+t.secret+'"]'),o=l.querySelectorAll('blockquote[data-secret="'+t.secret+'"]'),c=new RegExp("^https?:$","i"),i=0;i&lt;o.length;i++)o[i].style.display="none";for(i=0;i&lt;a.length;i++)s=a[i],e.source===s.contentWindow&amp;&amp;(s.removeAttribute("style"),"height"===t.message?(1e3&lt;(r=parseInt(t.value,10))?r=1e3:~~r&lt;200&amp;&amp;(r=200),s.height=r):"link"===t.message&amp;&amp;(r=new URL(s.getAttribute("src")),n=new URL(t.value),c.test(n.protocol))&amp;&amp;n.host===r.host&amp;&amp;l.activeElement===s&amp;&amp;(d.top.location.href=t.value))}},d.addEventListener("message",d.wp.receiveEmbedMessage,!1),l.addEventListener("DOMContentLoaded",function(){for(var e,t,s=l.querySelectorAll("iframe.wp-embedded-content"),r=0;r&lt;s.length;r++)(t=(e=s[r]).getAttribute("data-secret"))||(t=Math.random().toString(36).substring(2,12),e.src+="#?secret="+t,e.setAttribute("data-secret",t)),e.contentWindow.postMessage({message:"ready",secret:t},"*")},!1)))}(window,document);
+/* ]]&gt; */
+&lt;/script&gt;
+</html><thumbnail_url>http://livespot360.com/wp-content/uploads/2025/02/livespot-rethinking-detty-december-with-a-multi-layered-approach-dd-web-1-1024x591.png</thumbnail_url><thumbnail_width>1024</thumbnail_width><thumbnail_height>591</thumbnail_height><description>Don&#x2019;t you just love a good December? The holiday season you&#x2019;ve been looking forward to, the festivities, family time, and shared moments with loved ones. The crisp taste of harmattan lingers, reminding you of the year&#x2019;s journey&#x2014;the milestones, the memories&#x2014;and nudging you toward the new one ahead. A cocktail of gratitude, reflection, joy, and excitement, [&hellip;]</description></oembed>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Object Caching 25/55 objects using Disk
+Page Caching using Disk (Requested URI contains query) 
+Database Caching 1/1 queries in 0.000 seconds using Disk
+
+Served from: livespot360.com @ 2025-05-16 11:48:10 by W3 Total Cache
+-->
